@@ -26,6 +26,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
             <android.support.constraint.ConstraintLayout
+                android:id="@+id/filterDisplay"
                 android:layout_width="360dp"
                 android:layout_height="520dp"
                 android:visibility="visible">
